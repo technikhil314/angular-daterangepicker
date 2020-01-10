@@ -16,6 +16,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "angular-daterangepicker": [
+        "dist/angular-daterangepicker"
+      ],
+      "angular-daterangepicker/*": [
+        "dist/angular-daterangepicker/*"
+      ]
+    }
   }
 }
